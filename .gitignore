@@ -1,0 +1,5 @@
+.env
+.DS_Store
+.hubot_history
+node_modules/
+TrainHubot-darwin-x64/
